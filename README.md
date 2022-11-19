@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosen Tenov @rote1400
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java. Have experience programming with Python, Bootstrap, HTML, CSS, JS, C++, SQL
+- 🌱 I’m currently learning Selenium for QA test cases of web applications. Have experience programming with Java, Python, HTML, CSS, JS, Bootstrap, C++, SQL
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me - rote1400@student.miun.se
 
