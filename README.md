@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosen Tenov @rote1400
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node.js, Express, Selenium. Have experience programming with Java, Python, HTML, CSS, JS, Bootstrap, C++, SQL
+- 🌱 Enthusiast about working with Angular, React, Node.js, Express, Selenium. Having experience programming with Java, JavaScript, CSS, HTML, Bootstrap, Python, C++, MySQL
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me - rtenov@gmail.com
 
