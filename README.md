@@ -20,6 +20,8 @@
 ### Project Management ![Jira](https://img.shields.io/badge/-Jira-333?style=flat&logo=jira) ![Confluence](https://img.shields.io/badge/-Confluence-333?style=flat&logo=confluence) ![Scrum](https://img.shields.io/badge/-Scrum-333?style=flat&logo=scrumalliance)
 ### Communication ![Teams](https://img.shields.io/badge/-Microsoft%20Teams-333?style=flat&logo=microsoft-teams) ![Zoom](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom) ![Slack](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
 ### Others ![AI](https://img.shields.io/badge/-AI-333?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=googlebrain) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333?style=flat&logo=openai) ![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)
+### CMS, CRM, Cloud Services ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rote1400&layout=compact&card_width=350&langs_count=8&theme=vue-dark&border_radius=51)
