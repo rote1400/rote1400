@@ -27,7 +27,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rote1400&layout=compact&card_width=350&langs_count=8&theme=vue-dark&border_radius=51)
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=rote1400&theme=vue-dark&border_radius=51)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rote1400.rote1400)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/rosentenov)
+<a href="https://www.linkedin.com/in/rosentenov" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
+</a>
 
 
 <!---
