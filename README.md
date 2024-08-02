@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and I'm having one year of professional experience at one big international IT consultancy company located in Sweden. I was working in a project with Java and Angular as main technologies along with using Docker, Kubernetes, OpenShift, Jenkins, MySQL, APIs, Postman. I have exprience working with Git, Bitbucket, Jira, Confluence, Slack, Scrum
 - 🌱 Enthusiast about working on Front-end projects with React, Vue.js, Vite.js, CSS, HTML
 - 💞️ I’m looking on opportunities to collaborate on programming projects
-- 📫 How to reach me - rtenov@gmail.com
+- 📫 You're welcome to reach me on https://www.linkedin.com/in/rosentenov/ or rtenov@gmail.com
 
 ## 🎓 Education
 | Degree                           | Institution                   | Year |
