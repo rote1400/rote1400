@@ -26,6 +26,9 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rote1400&layout=compact&card_width=350&langs_count=8&theme=vue-dark&border_radius=51)
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=rote1400&theme=vue-dark&border_radius=51)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rote1400.rote1400)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/rosentenov)
+
 
 <!---
 rote1400/rote1400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
