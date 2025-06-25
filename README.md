@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 - 👋 Hi, I’m Rosen Tenov @rote1400
-- 👀 I’m interested in programming and I'm having one year of professional experience at one big international IT consultancy company located in Sweden. I was working in a project with Java and Angular as main technologies along with using Docker, Kubernetes, OpenShift, Jenkins, MySQL, APIs, Postman. I have exprience working with Git, Bitbucket, Jira, Confluence, Slack, Scrum
+- 👀 I’m interested in programming and I'm having one year of professional experience at one big international IT consultancy company located in Sweden. I was working in a project with Java and Angular as main technologies along with using Docker, Kubernetes, OpenShift, Jenkins, MySQL, APIs, Postman. I have experience working with Git, Bitbucket, Jira, Confluence, Slack, Scrum. I have experience with Python as well for data processing and machine learning.
 - 🌱 Enthusiast about working on Front-end projects with React, Vue.js, Vite.js, CSS, HTML
 - 💞️ I’m looking on opportunities to collaborate on programming projects
 - 📫 You're welcome to reach me on https://www.linkedin.com/in/rosentenov/ or rtenov@gmail.com
